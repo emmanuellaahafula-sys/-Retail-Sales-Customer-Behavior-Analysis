@@ -117,3 +117,7 @@ It shows how business data can be transformed into clear, interactive, and actio
 - Business Analysis
 - Dashboard Development
 - Data Storytelling
+## Dashboard Preview
+
+![Retail Sales & Customer Behavior Dashboard](Retail%20Sales%20%26%20Customer%20Behavior%201.png)
+
